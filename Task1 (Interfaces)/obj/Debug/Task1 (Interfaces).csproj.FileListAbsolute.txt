@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\bin\Debug\Task1 (Interfaces).exe.config
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\bin\Debug\Task1 (Interfaces).exe
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\bin\Debug\Task1 (Interfaces).pdb
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\obj\Debug\Task1 (Interfaces).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\obj\Debug\Task1 (Interfaces).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\obj\Debug\Task1 (Interfaces).exe
+C:\Users\user\source\repos\Task1 (Interfaces)\Task1 (Interfaces)\obj\Debug\Task1 (Interfaces).pdb
